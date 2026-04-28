@@ -12,7 +12,7 @@ export default function Hero() {
           I have built various applications React, JavaScript och Vue, that you can see in my projects.
         </p>
         <div className={"hero-links-container"}>
-          <a href="#Projects" className={"see-project-link"}>View projects on Github →</a>
+          <a href="#Projects" className={"see-project-link"}>View project →</a>
           <a href="#Contact" className={"contact-link"}>Contact me</a>
         </div>
       </div>
