@@ -3,7 +3,7 @@ import '../css/About.css'
 
 const skills = [
   { label: 'Strong in', items: 'React · TypeScript · JavaScript · HTML & CSS · UX/UI Design · Graphic design' },
-  { label: 'Intermediate in', items: 'Node.js · SQL · Vue.js · WordPress · Express' },
+  { label: 'Intermediate in', items: 'Node.js · SQL/SQLite · Vue.js · WordPress · Express' },
   { label: 'Tools', items: 'Git · Jira · React bootstrap · Vitest · Jest' },
   { label: 'Language', items: 'Svenska · Engelska · Urdu' },
 ]

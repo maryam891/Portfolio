@@ -26,8 +26,7 @@ export default function Hero() {
           <span>TypeScript</span>
           <span>JavaScript</span>
           <span>Node.js</span>
-          <span>SQLite</span>
-          <span>Wordpress</span>
+          <span>SQL/SQLite</span>
           <span>UX/UI</span>
           <span>Git</span>
         </div>
