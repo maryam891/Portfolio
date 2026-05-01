@@ -10,9 +10,9 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Todo App",
+    title: "Todo web app",
     description:
-      "This is a full-stack todo web app I built where you can manage and add tasks with a fun side of adding stickers to your tasks. ",
+      "This is a full-stack todo web app I built where you can manage and add tasks with a fun side of adding images to your tasks. ",
     tags: ["React", "TypeScript", "Node js", "SQLite", "Express", "CSS"],
     githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebbapp",
   },
