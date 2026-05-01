@@ -20,7 +20,7 @@ export const projects: Project[] = [
     id: 2,
     title: "Mini game",
     description:
-      "A browser-based card battle game built where you choose your character and challenge your opponent – attack strategically and outsmart them to claim victory!",
+      "A browser-based card battle game built where you get a randomly generated  character and challenge your opponent – attack strategically and outsmart them to claim victory!",
     tags: ["JavaScript", "CSS", "HTML"],
     githubUrl: "https://github.com/maryam891/game-page",
   },

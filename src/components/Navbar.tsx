@@ -13,7 +13,7 @@ export default function Navbar() {
         <li><a href="#About">About me</a></li>
         <li><a href="#Projects">Projects</a></li>
         <li><a href="#Experience">Experience</a></li>
-        <li><a href="#Contact">Contacts</a></li>
+        <li><a href="#Contact">Contact</a></li>
       </ul>
       <div className='nav-links-container-mobile'>
         {hamburgerMenuOpen ? <IoClose size={24} onClick={() => setHamburgerMenuOpen(false)} className='closeIcon' /> : <GiHamburgerMenu size={24} onClick={() => setHamburgerMenuOpen(true)} className='hamburgericon' />}
