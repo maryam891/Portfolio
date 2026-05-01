@@ -9,11 +9,11 @@ export default function Hero() {
           Frontend<br /><em>Developer</em>
         </h1>
         <p className={"hero-text"}>
-          I have built various applications React, JavaScript och Vue, that you can see in my projects.
+          I have built various applications in React, JavaScript och Vue, that you can see in my projects.
         </p>
         <div className={"hero-links-container"}>
           <a href="#Projects" className={"see-project-link"}>View projects →</a>
-          <a href="#Contact" className={"contact-link"}>Contact me</a>
+          <a href="#Contact" className={"contact-link"}>Contact me →</a>
         </div>
       </div>
 
