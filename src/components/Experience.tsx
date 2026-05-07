@@ -21,7 +21,7 @@ export default function Experience() {
           <p>
             In my second internship I collaborated with a teammate to build a UI
             tool for a camera system using React, TypeScript, Node.js, React Flow
-            and JSON Forms. I also gained some experience with Python.
+            and JSON Forms.
           </p>
           <p>
             I previously studied UX & UI Design, which taught me to think from
