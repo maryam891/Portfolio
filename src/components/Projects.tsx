@@ -14,8 +14,10 @@ export default function Projects() {
             <p className='project-description'>{project.description}</p>
             {project.tags.map((tag, i) => (
               <span className='project-tags' key={i}> {tag}</span>))}
-            <p style={{ marginTop: "10px", marginBottom: "20px" }}>View on Github:</p>
+            <p style={{ marginTop: "10px", marginBottom: "20px" }}>View code on Github:</p>
             <a href={project.githubUrl} target="_blank" rel="noreferrer" className='project-url'>{project.githubUrl}</a>
+            <p style={{ marginTop: "10px", marginBottom: "20px" }}>View live demo:</p>
+            <a href={project.liveUrl} target="_blank" rel="noreferrer" className='project-url'>{project.liveUrl}</a>
           </div>
         ))}
       </div>
