@@ -2,9 +2,8 @@
 import '../css/About.css'
 
 const skills = [
-  { label: 'Strong in', items: 'React · TypeScript · JavaScript · HTML & CSS · UX/UI Design · Graphic design' },
-  { label: 'Intermediate in', items: 'Node.js · SQL/SQLite · Vue.js · WordPress · Express' },
-  { label: 'Tools', items: 'Git · Jira · React bootstrap · Vitest · Jest' },
+  { label: 'Programing Language & Frameworks', items: 'React · TypeScript · JavaScript · HTML & CSS · UX/UI Design · Graphic design,Node.js · SQL/SQLite · Vue.js · WordPress · Express' },
+  { label: 'Tools', items: 'Git · Jira · React bootstrap · Vitest · Jest, Figma' },
   { label: 'Language', items: 'Swedish · English · Urdu' },
 ]
 
