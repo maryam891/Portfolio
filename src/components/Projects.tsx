@@ -6,11 +6,12 @@ export default function Projects() {
   return (
     <section className={"project-container"} id='Projects'>
       <div style={{ fontWeight: "400" }}>Projects</div>
-      <h2>Some of my projects</h2>
+      <h2>Selected work</h2>
       <div className={"projects-card-container"}>
         {projects.map((project) => (
           <div key={project.id} className={"project-card"}>
             <h3>{project.title}</h3>
+            <img src={project.img}></img>
             <p className='project-description'>{project.description}</p>
             {project.tags.map((tag, i) => (
               <span className='project-tags' key={i}> {tag}</span>))}

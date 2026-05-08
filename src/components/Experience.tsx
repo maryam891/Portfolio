@@ -19,7 +19,7 @@ export default function Experience() {
             with Jest and Vitest.
           </p>
           <p>
-            In my second internship I collaborated with a teammate to build a user
+            In my second internship I am collaborating with a teammate to build a user
             interface for a camera system using React, TypeScript, Node.js, React Flow
             and JSON Forms.
           </p>

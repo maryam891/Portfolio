@@ -10,7 +10,6 @@ export default function Contact() {
     <section className={"main-contact-container"} id='Contact'>
       <span>
         <h2>Contact</h2>
-        <h3>Have any questions?</h3>
       </span>
       <div className={"links-container"}>
         <div className='contact-icon-links-container'>

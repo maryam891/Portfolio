@@ -39,9 +39,9 @@
   transition: background-color 0.2s ease;
 }
 
-.main-contact-container h2,
-.main-contact-container h3 {
+.main-contact-container h2 {
   color: rgb(110, 39, 68);
+  padding-bottom: 20px;
 }
 
 .contact-icon-links-container svg,
