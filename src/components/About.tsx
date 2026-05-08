@@ -3,7 +3,7 @@ import '../css/About.css'
 
 const skills = [
   { label: 'Programming Language & Frameworks', items: 'React · TypeScript · JavaScript · HTML & CSS · UX/UI Design · Graphic design · Node.js · SQL/SQLite · Vue.js · WordPress · Express' },
-  { label: 'Tools', items: 'Git · Jira · React bootstrap · Vitest · Jest, Figma' },
+  { label: 'Tools', items: 'Git · Jira · React bootstrap · Vitest · Jest · Figma' },
   { label: 'Language', items: 'Swedish · English · Urdu' },
 ]
 

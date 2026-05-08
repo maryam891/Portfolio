@@ -16,7 +16,7 @@ export const projects: Project[] = [
     id: 1,
     title: "Todo web app",
     description:
-      "This is a full-stack todo web app I built in the Fullstack course in the Frontend Developer program. You can manage and add tasks with a fun side of adding images to your tasks. ",
+      "This is a full-stack todo web app I built as a part of the Fullstack course in the Frontend Developer program. You can manage and add tasks with a fun side of adding images to your tasks. ",
     tags: [
       "React",
       "TypeScript",
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     id: 3,
     title: "Recipe webbpage",
     description:
-      "This is a full-stack recipe web application I built in the Fullstack course in the Frontend Developer program. You can browse through a variety of recipes and save your favorites for easy access.",
+      "This is a full-stack recipe web application I built as a part of the Fullstack course in the Frontend Developer program. You can browse through a variety of recipes and save your favorites for easy access.",
     tags: [
       "React",
       "TypeScript",
