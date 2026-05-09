@@ -9,7 +9,7 @@ export default function Hero() {
           Frontend<br /><em>Developer</em>
         </h1>
         <p className={"hero-text"}>
-          I have built various applications in React, JavaScript, TypeScript, SQLite and Node js, that you can see in my projects.
+          A programmer with a passion for implementing fun and creative user friendly designs.
         </p>
         <div className={"hero-links-container"}>
           <a href="#Projects" className={"see-project-link"}>View projects →</a>
