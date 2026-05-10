@@ -17,15 +17,7 @@ export const projects: Project[] = [
     title: "Todo web app",
     description:
       "This is a full-stack todo web app I built as a part of the JavaScript Frameworks course in the Frontend Developer program. You can manage and add tasks with a fun side of adding images to your tasks. ",
-    tags: [
-      "React",
-      "TypeScript",
-      "Node js",
-      "SQLite",
-      "Express",
-      "CSS",
-      "HTML",
-    ],
+    tags: ["React", "TypeScript", "SQLite", "Express/Node js", "CSS", "HTML"],
     githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebbapp",
     liveUrl: "https://fullstack-project-todowebbapp.vercel.app",
     img: todoImg,
@@ -45,15 +37,7 @@ export const projects: Project[] = [
     title: "Recipe webbpage",
     description:
       "This is a full-stack recipe web application I built as a part of the JavaScript Frameworks course in the Frontend Developer program. You can browse through a variety of recipes and save your favorites for easy access.",
-    tags: [
-      "React",
-      "TypeScript",
-      "Node.js",
-      "SQLite",
-      "Express",
-      "CSS",
-      "HTML",
-    ],
+    tags: ["React", "TypeScript", "SQLite", "Express/Node js", "CSS", "HTML"],
     githubUrl: "https://github.com/maryam891/Recipedia-webbpage/tree/main",
     liveUrl: "https://recipedia-webbpage-production.up.railway.app",
     img: recipeImg,

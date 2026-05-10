@@ -51,7 +51,7 @@ main {
 .qualities-inner-container span {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 30px;
-  padding: 0.45rem 0.85rem;
+  padding: 0.45rem 0.70rem;
   font-size: 15px;
   font-weight: 600;
 }
