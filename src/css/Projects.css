@@ -14,6 +14,11 @@
   color: rgb(110, 39, 68);
 }
 
+.project-text {
+  color: rgb(110, 39, 68);
+  font-weight: 500;
+}
+
 .project-container img {
   height: 240px;
   max-width: 340px;
@@ -34,6 +39,9 @@
   height: auto;
   width: auto;
   min-height: 150px;
+  padding-top: 5px;
+  line-height: 1.5rem;
+  padding-bottom: 5px;
 }
 
 .project-tags {
