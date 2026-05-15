@@ -15,11 +15,11 @@ export default function Experience() {
           <p>
             I am currently doing my second internship at Viscando AB. During my
             first internship I built an application with React and TypeScript for
-            visualisation of VPN/locally connected systems, and wrote unit tests
+            visualization of VPN/locally connected systems, and wrote unit tests
             with Jest and Vitest.
           </p>
           <p>
-            In my second internship I am collaborating with a teammate to build a user
+            In my second internship I am working in a team to build a user
             interface for a camera system using React, TypeScript, Node.js, React Flow
             and JSON Forms.
           </p>

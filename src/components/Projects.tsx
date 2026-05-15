@@ -24,8 +24,7 @@ export default function Projects() {
               </>
             ) : (
               <>
-                <p style={{ marginTop: "10px", marginBottom: "20px" }}>Code:</p>
-                <p className='project-text'>Unavailable</p>
+
               </>
             )}
 
@@ -38,8 +37,7 @@ export default function Projects() {
               </>
             ) : (
               <>
-                <p style={{ marginTop: "10px", marginBottom: "20px" }}>Live demo:</p>
-                <p className='project-text'>Unavailable</p>
+
               </>
             )}
           </div>

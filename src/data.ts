@@ -1,7 +1,8 @@
 import todoImg from "../src/assets/todoProjectImg.png";
 import minigameImg from "../src/assets/miniGameProjectImg.png";
 import recipeImg from "../src/assets/recipeProjectImg.png";
-import internshi1picture from "../src/assets/intership1.png";
+import otuslisterImg from "../src/assets/otuslisterimg.png";
+import flowConfigImg from "../src/assets/flowConfig.png";
 export interface Project {
   id: number;
   title: string;
@@ -18,7 +19,16 @@ export const projects: Project[] = [
     title: "MyTodo",
     description:
       "This is a full-stack todo web app I built as a part of the Fullstack course in the Frontend Developer program. You can manage and add tasks with a fun side of adding images to your tasks. ",
-    tags: ["React", "TypeScript", "SQLite", "Express/Node js", "CSS", "HTML"],
+    tags: [
+      "React",
+      "TypeScript",
+      "SQLite",
+      "Express/Node.js",
+      "Jest",
+      "Vitest",
+      "CSS",
+      "HTML",
+    ],
     githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebbapp",
     liveUrl: "https://fullstack-project-todowebbapp.vercel.app",
     img: todoImg,
@@ -50,7 +60,25 @@ export const projects: Project[] = [
       "A project from my first internship at Viscando AB, where I was responsible for frontend development and some backend work, including API calls with Node.js. The tool visualized VPN/locally connected systems. I also wrote React unit tests using Jest and Vitest.",
     githubUrl: "",
     liveUrl: "",
-    img: internshi1picture,
-    tags: ["React", "Node js", "CSS", "HTML", "Jest", "Vitest"],
+    img: otuslisterImg,
+    tags: ["React", "TypeScript", "Node.js", "CSS", "HTML", "Jest", "Vitest"],
+  },
+  {
+    id: 5,
+    title: "Flow configuration",
+    description:
+      "Currently doing my second internship at Viscando AB, where I am building a user interface for a camera system. The UI visualizes camera configurations using React Flow and JSON Forms, built with React, TypeScript and Node.js.",
+    githubUrl: "",
+    liveUrl: "",
+    img: flowConfigImg,
+    tags: [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "React Flow",
+      "JSON Forms",
+      "CSS",
+      "HTML",
+    ],
   },
 ];
