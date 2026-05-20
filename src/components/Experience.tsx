@@ -19,9 +19,7 @@ export default function Experience() {
             with Jest for the backend and Vitest for the frontend.
           </p>
           <p>
-            In my second internship I am working in a team to build a user
-            interface for a camera system using React, TypeScript, Node.js, React Flow
-            and JSON Forms. Presenting demos at development meetings to gather feedback and drive UI improvements.
+            During my second internship, I am working in a team to build a user interface for a camera system using React, TypeScript, Node.js, React Flow and JSON Forms. I also present demos during development meetings to gather feedback and improve the user interface.
           </p>
           <p>
             I previously studied UX & UI Design, which taught me to think from
