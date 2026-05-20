@@ -56,7 +56,7 @@ export const projects: Project[] = [
     id: 4,
     title: "Otuslister",
     description:
-      "A project from my first internship at Viscando AB, where I was responsible for frontend development and some backend work, including API calls with Node.js. The tool visualized VPN/locally connected systems. I also wrote React unit tests using Jest and Vitest.",
+      "A project from my first internship at Viscando AB, where I was responsible for frontend development and some backend work, including API calls with Node.js. The tool visualized VPN/locally connected systems. I also implemented unit tests with Vitest for the frontend and Jest for the backend.",
     githubUrl: "",
     liveUrl: "",
     img: otuslisterImg,
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     id: 5,
     title: "Flow configuration",
     description:
-      "Currently doing my second internship at Viscando AB, where I am building a user interface for a camera system. The UI visualizes camera configurations using React Flow and JSON Forms, built with React, TypeScript and Node.js.",
+      "Currently doing my second internship at Viscando AB, where I am responsible for frontend development of a user interface for a camera system. Working with libraries such as React Flow for node-based visualizations and JSON Forms for dynamic form rendering. The UI visualizes camera configurations, built with React, TypeScript and Node.js.",
     githubUrl: "",
     liveUrl: "",
     img: flowConfigImg,

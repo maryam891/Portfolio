@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className={"main-hero-container"}>
       <div className={"hero-text-container"}>
-        <p className="available-text">Available from June of 2026</p>
+        <p className="available-text">Actively seeking my first role</p>
         <h1>
           Frontend<br /><em>Developer</em>
         </h1>

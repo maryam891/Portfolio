@@ -16,7 +16,7 @@ export default function Experience() {
             I am currently doing my second internship at Viscando AB. During my
             first internship I built an application with React and TypeScript for
             visualization of VPN/locally connected systems, and wrote unit tests
-            with Jest and Vitest.
+            with Jest for the backend and Vitest for the frontend.
           </p>
           <p>
             In my second internship I am working in a team to build a user
