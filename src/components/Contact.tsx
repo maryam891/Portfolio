@@ -21,9 +21,7 @@ export default function Contact() {
         </div>
         <div className='contact-icon-links-container'>
           <FaPhoneAlt></FaPhoneAlt>
-          <a href="https://whatsapp.com"
-            target="_blank"
-            rel="noreferrer">
+          <a>
             +46735169242
           </a>
         </div>

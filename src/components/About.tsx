@@ -14,9 +14,9 @@ export default function About() {
       <div className={"about-label"}><h2 >About me</h2></div>
       <div className={"main-about-container"} >
         <div className={"about-text-container"}>
-          <p>I am currently studying my last term at IT-Högskolan as a Frontend Developer, with a background in UX & UI design. That combination means that I think both through the user's perspective while also thinking about code, seeing the two as a whole.</p>
-          <p>Right now I am doing my second internship at Viscando AB, where I am building a visual user interface for a camera system. I thrive in a structured team where we can share ideas and learn from each other. I am always looking to grow and take on new challenges.</p>
-          <p>I am graduating in June 2026 and actively looking for my first role.</p>
+          <p>I am currently studying my final term at IT-Högskolan as a Frontend Developer, with a background in UX & UI design. This combination allows me to think from both the user’s perspective and the technical side, seeing design and development as a whole.
+
+            I am currently doing my second internship at Viscando AB, where I work as part of a development team building a visual user interface for a camera system. I thrive in structured and collaborative teams where ideas and knowledge are shared, and I am always looking to grow and take on new challenges. I am graduating in June 2026 and actively looking for my first role.</p>
         </div>
         <div className={"skills-container"}>
           {skills.map((s) => (
