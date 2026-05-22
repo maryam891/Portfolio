@@ -15,7 +15,6 @@ export default function About() {
       <div className={"main-about-container"} >
         <div className={"about-text-container"}>
           <p>I am currently studying my final term at IT-Högskolan as a Frontend Developer, with a background in UX & UI design. This combination allows me to think from both the user’s perspective and the technical side, seeing design and development as a whole.
-
             I am currently doing my second internship at Viscando AB, where I work as part of a development team building a visual user interface for a camera system. I thrive in structured and collaborative teams where ideas and knowledge are shared, and I am always looking to grow and take on new challenges. I am graduating in June 2026 and actively looking for my first role.</p>
         </div>
         <div className={"skills-container"}>
