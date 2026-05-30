@@ -6,10 +6,10 @@ export default function Hero() {
       <div className={"hero-text-container"}>
         <p className="available-text">Actively seeking my first role</p>
         <h1>
-          Junior Frontend<br /><em>Developer</em>
+          Frontend<br /><em>Developer</em>
         </h1>
         <p className={"hero-text"}>
-          A Junior Frontend developer with a passion for implementing fun, creative and user-friendly applications.
+          A Frontend developer with a passion for implementing fun, creative and user-friendly applications.
         </p>
         <div className={"hero-links-container"}>
           <a href="#Projects" className={"see-project-link"}>View projects →</a>
