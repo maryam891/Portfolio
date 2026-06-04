@@ -2,7 +2,7 @@
 import '../css/About.css'
 
 const skills = [
-  { label: 'Frontend', items: 'React · TypeScript · JavaScript · Vue.js · React Bootstrap · HTML & CSS' },
+  { label: 'Frontend', items: 'React · TypeScript · JavaScript · Vue.js · HTML & CSS' },
 
   { label: 'Backend', items: 'Node.js/Express · SQL/SQLite' },
 
