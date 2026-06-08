@@ -66,7 +66,7 @@ export const projects: Project[] = [
     id: 5,
     title: "Flow configuration",
     description:
-      "Currently doing my second internship at Viscando AB, where I am responsible for frontend development of a user interface for a camera system. Working with libraries such as React Flow for node-based visualizations and JSON Forms for dynamic form rendering. The UI visualizes camera configurations, built with React, TypeScript and Node.js.",
+      "I recently completed my second internship at Viscando AB, where I was responsible for frontend development of a user interface for a camera system. I Worked with libraries such as React Flow for node-based visualizations and JSON Forms for dynamic form rendering. The UI visualizes camera configurations, built with React, TypeScript and Node.js.",
     githubUrl: "",
     liveUrl: "",
     img: flowConfigImg,
