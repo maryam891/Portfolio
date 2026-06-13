@@ -3,6 +3,7 @@ import minigameImg from "../src/assets/miniGameProjectImg.png";
 import recipeImg from "../src/assets/recipeProjectImg.png";
 import otuslisterImg from "../src/assets/otuslisterimg.png";
 import flowConfigImg from "../src/assets/flowConfig.png";
+import cameraSensor from "../src/assets/cameraSensor.png";
 export interface Project {
   id: number;
   title: string;
@@ -79,5 +80,15 @@ export const projects: Project[] = [
       "CSS",
       "HTML",
     ],
+  },
+  {
+    id: 6,
+    title: "User interface for camera based sensor",
+    description:
+      "For my thesis work at Viscando, I further developed an exsisting user interface which I worked on my second internship. It was developed with including an Overviw page with graph data and diagrams, and session-based login. The main requirements were met and the interface became more complete and functional.",
+    githubUrl: "",
+    liveUrl: "",
+    img: cameraSensor,
+    tags: ["React", "TypeScript", "Node.js", "MUI X Charts", "CSS", "HTML"],
   },
 ];
