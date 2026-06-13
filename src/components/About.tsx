@@ -8,7 +8,7 @@ const skills = [
 
   { label: 'Design & CMS', items: 'UX/UI Design · Figma · WordPress' },
 
-  { label: 'Tools', items: 'Git · Jira' },
+  { label: 'Tools', items: 'Git · Jira · Agile' },
 
   { label: 'Testing', items: 'Vitest · Jest' },
 

@@ -85,7 +85,7 @@ export const projects: Project[] = [
     id: 6,
     title: "User interface for camera based sensor",
     description:
-      "For my thesis work at Viscando, I further developed an exsisting user interface which I worked on my second internship. It was developed with including an Overviw page with graph data and diagrams, and session-based login. The main requirements were met and the interface became more complete and functional.",
+      "For my thesis work at Viscando, I further developed an exsisting user interface which I worked on my second internship. It was developed with new pages including an Overviw page with graph data and diagrams, and session-based login. The main requirements were met and the interface became more complete and functional.",
     githubUrl: "",
     liveUrl: "",
     img: cameraSensor,
