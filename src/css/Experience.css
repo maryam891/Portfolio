@@ -10,11 +10,11 @@
 
 .experience-main-container h2 {
   align-self: center;
-  width: 400px;
+  max-width: 400px;
   color: rgb(110, 39, 68);
   font-size: 1.8rem;
   margin-bottom: 30px;
-  padding-left: 20px;
+
 }
 
 .experience-text-pic-container {

@@ -13,6 +13,7 @@
   margin: 0 auto;
 }
 
+
 .about-header {
   font-family: 'DM Serif Display', serif;
   font-size: clamp(2rem, 4vw, 3rem);
@@ -73,5 +74,11 @@
 
   .skills-container {
     grid-template-columns: 1fr;
+  }
+
+  .main-about-container {
+    grid-template-columns: 1fr;
+    align-items: center;
+
   }
 }
