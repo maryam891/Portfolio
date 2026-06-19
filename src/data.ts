@@ -29,7 +29,7 @@ export const projects: Project[] = [
       "CSS",
       "HTML",
     ],
-    githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebapp",
+    githubUrl: "https://github.com/maryam891/Recipedia-webpage",
     liveUrl: "https://fullstack-project-todowebbapp.vercel.app/",
     img: todoImg,
   },
