@@ -29,8 +29,8 @@ export const projects: Project[] = [
       "CSS",
       "HTML",
     ],
-    githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebbapp",
-    liveUrl: "https://fullstack-project-todowebbapp.vercel.app",
+    githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebapp",
+    liveUrl: "https://fullstack-project-todowebbapp.vercel.app/",
     img: todoImg,
   },
   {
@@ -49,8 +49,8 @@ export const projects: Project[] = [
     description:
       "This is a full-stack recipe web application I built as a part of the Fullstack course in the Frontend Developer program. You can browse through a variety of recipes and save your favorites for easy access.",
     tags: ["React", "TypeScript", "SQLite", "Express/Node js", "CSS", "HTML"],
-    githubUrl: "https://github.com/maryam891/Recipedia-webbpage/tree/main",
-    liveUrl: "https://recipedia-webbpage-production.up.railway.app",
+    githubUrl: "https://github.com/maryam891/Fullstack-project-Todowebapp",
+    liveUrl: "https://recipedia-webpage.vercel.app/",
     img: recipeImg,
   },
   {

@@ -6,7 +6,7 @@ const skills = [
 
   { label: 'Backend', items: 'Node.js/Express · SQL/SQLite' },
 
-  { label: 'Design & CMS', items: 'UX/UI Design · Figma · WordPress' },
+  { label: 'Design & CMS', items: 'UX/UI Design · Figma · WordPress · Graphic design' },
 
   { label: 'Tools', items: 'Git · Jira · Agile' },
 
