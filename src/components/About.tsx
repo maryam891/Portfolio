@@ -4,7 +4,8 @@ import '../css/About.css'
 const skills = [
   { label: 'Frontend', items: 'React · TypeScript · JavaScript · Vue.js · HTML & CSS' },
 
-  { label: 'Backend', items: 'Node.js/Express · SQL/SQLite' },
+  { label: 'Backend', items: 'Node.js/Express · SQL · SQLite · PostgreSQL', },
+  { label: 'Deployment', items: 'Vercel · Render · Neon · Environment variables' },
 
   { label: 'Design & CMS', items: 'UX/UI Design · Figma · WordPress · Graphic design' },
 

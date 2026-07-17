@@ -11,6 +11,8 @@ export default function Projects() {
         {projects.map((project) => (
           <div key={project.id} className={"project-card"}>
             <h3>{project.title}</h3>
+            {project.note ?
+              <p>Note: {project.note}</p> : ""}
             <img src={project.img}></img>
             <p className='project-description'>{project.description}</p>
             {project.tags.map((tag, i) => (
