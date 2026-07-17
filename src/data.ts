@@ -19,7 +19,7 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "MyTodo",
-    note: "Some live demos may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
+    note: "The live demos may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
     description:
       "This is a full-stack todo web app I built as a part of the Fullstack course in the Frontend Developer program. I implemented React unit tests using Vitest and React Testing Library. You can manage and add tasks with a fun side of adding images to your tasks.",
     tags: [
@@ -49,7 +49,7 @@ export const projects: Project[] = [
   {
     id: 3,
     title: "Recipedia",
-    note: "Some live demos may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
+    note: "The live demos may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
     description:
       "This is a full-stack recipe web application I built as a part of the Fullstack course in the Frontend Developer program. You can browse through a variety of recipes and save your favorites for easy access.",
     tags: [
