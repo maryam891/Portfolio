@@ -35,17 +35,7 @@ export const projects: Project[] = [
     liveUrl: "https://fullstack-project-todowebbapp.vercel.app/",
     img: todoImg,
   },
-  {
-    id: 2,
-    title: "Magic cards",
-    note: "",
-    description:
-      "This is a browser-based mini card battle game I built as a part of the Native JavaScript course in the Frontend Developer program. You get a randomly generated  character and challenge your opponent – attack them as many times as possible to claim victory!",
-    tags: ["JavaScript", "CSS", "HTML"],
-    githubUrl: "https://github.com/maryam891/game-page",
-    liveUrl: "https://game-page-rouge.vercel.app",
-    img: minigameImg,
-  },
+
   {
     id: 3,
     title: "Recipedia",
@@ -74,6 +64,17 @@ export const projects: Project[] = [
     liveUrl: "",
     img: otuslisterImg,
     tags: ["React", "TypeScript", "Node.js", "CSS", "HTML", "Jest", "Vitest"],
+  },
+  {
+    id: 2,
+    title: "Magic cards",
+    note: "",
+    description:
+      "This is a browser-based mini card battle game I built as a part of the Native JavaScript course in the Frontend Developer program. You get a randomly generated  character and challenge your opponent – attack them as many times as possible to claim victory!",
+    tags: ["JavaScript", "CSS", "HTML"],
+    githubUrl: "https://github.com/maryam891/game-page",
+    liveUrl: "https://game-page-rouge.vercel.app",
+    img: minigameImg,
   },
   {
     id: 5,
