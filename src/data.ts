@@ -4,6 +4,7 @@ import recipeImg from "../src/assets/recipeProjectImg.png";
 import otuslisterImg from "../src/assets/otuslisterimg.png";
 import flowConfigImg from "../src/assets/flowConfig.png";
 import cameraSensor from "../src/assets/cameraSensor.png";
+import weatherImg from "../src/assets/weatherappImg.png";
 export interface Project {
   id: number;
   title: string;
@@ -19,7 +20,7 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "MyTodo",
-    note: "The live demos may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
+    note: "The live demo may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
     description:
       "This is a full-stack todo web app I built as a part of the Fullstack course in the Frontend Developer program. I implemented React unit tests using Vitest and React Testing Library. You can manage and add tasks with a fun side of adding images to your tasks.",
     tags: [
@@ -37,9 +38,28 @@ export const projects: Project[] = [
   },
 
   {
+    id: 2,
+    title: "Weather Daily",
+    note: "",
+    description:
+      "A weather application built with Vue 3 where users can search locations worldwide, view current weather conditions and forecasts, and customize the background theme based on their preferences.",
+    tags: [
+      "Vue 3 (Composition API)",
+      "HTML",
+      "CSS",
+      "Chart.js",
+      "vue-chartjs",
+      "Open-Meteo API",
+    ],
+    githubUrl: "https://github.com/maryam891/weather-app",
+    liveUrl: "https://weather-app-three-umber-74.vercel.app/",
+    img: weatherImg,
+  },
+
+  {
     id: 3,
     title: "Recipedia",
-    note: "The live demos may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
+    note: "The live demo may take a few seconds to load on the first visit due to hosting cold starts. Try visiting the link again.",
     description:
       "This is a full-stack recipe web application I built as a part of the Fullstack course in the Frontend Developer program. You can browse through a variety of recipes and save your favorites for easy access.",
     tags: [
