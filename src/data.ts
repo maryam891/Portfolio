@@ -86,7 +86,7 @@ export const projects: Project[] = [
     tags: ["React", "TypeScript", "Node.js", "CSS", "HTML", "Jest", "Vitest"],
   },
   {
-    id: 2,
+    id: 5,
     title: "Magic cards",
     note: "",
     description:
@@ -97,7 +97,7 @@ export const projects: Project[] = [
     img: minigameImg,
   },
   {
-    id: 5,
+    id: 6,
     title: "Flow configuration",
     note: "",
     description:
@@ -116,7 +116,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: 6,
+    id: 7,
     title: "User interface for camera based sensor",
     note: "",
     description:
