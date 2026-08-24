@@ -13,7 +13,7 @@ export default function Experience() {
             creative and problem-solving aspects of it.
           </p>
           <p>
-            I recently graduated from IT-Högskolan and completed my second internship at Viscando AB. During my first internship I built a tool with React and TypeScript for
+            I graduated from IT-Högskolan in June 2026 and completed my second internship at Viscando AB. During my first internship I built a tool with React and TypeScript for
             visualization of VPN/locally connected systems, and wrote unit tests
             with Jest for the backend and Vitest for the frontend.
           </p>

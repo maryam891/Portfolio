@@ -7,7 +7,7 @@ const skills = [
   { label: 'Backend', items: 'Node.js/Express · SQL · SQLite · PostgreSQL', },
   { label: 'Deployment', items: 'Vercel · Render · Neon · Environment variables' },
 
-  { label: 'Design & CMS', items: 'UX/UI Design · Figma · WordPress · Graphic design' },
+  { label: 'Design & CMS', items: 'UX/UI Design · Figma · WordPress · PHP · Graphic design' },
 
   { label: 'Tools', items: 'Git · Jira · Agile' },
 
@@ -23,8 +23,8 @@ export default function About() {
       <h2>About me</h2>
       <div className={"main-about-container"} >
         <div className={"about-text-container"}>
-          <p>I recently graduated from IT-Högskolan as a Frontend Developer and am actively looking for my first role. I have a background in UX & UI design. This combination allows me to think from both the user’s perspective and the technical side, seeing design and development as a whole.
-            I also recently completed my second internship at Viscando AB, where I worked with another developer to build a visual user interface for a camera system. Additionally I got to further develop the interface with new pages such as an overview page with new pages including an overview of camera sensors with graph data and diagrams. I thrive in structured and collaborative teams where ideas and knowledge are shared, and I am always looking to grow and take on new challenges.</p>
+          <p>I graduated from IT-Högskolan in June 2026 as a Frontend Developer and am actively looking for my first role. I have a background in UX & UI design. This combination allows me to think from both the user’s perspective and the technical side, seeing design and development as a whole.
+            I completed my second internship at Viscando AB, where I worked with another developer to build a visual user interface for a camera system. Additionally I got to further develop the interface with new pages such as an overview page with new pages including an overview of camera sensors with graph data and diagrams. I thrive in structured and collaborative teams where ideas and knowledge are shared, and I am always looking to grow and take on new challenges.</p>
         </div>
         <div className={"skills-container"}>
           {skills.map((s) => (
